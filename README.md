@@ -8,4 +8,5 @@ Made using react and tmdb api
 <img width="625" height="590" alt="image" src="https://github.com/user-attachments/assets/2fabbc5b-fb49-4d6f-9c14-87ab04e33b8e" />
 <img width="436" height="609" alt="image" src="https://github.com/user-attachments/assets/00cf0b89-7750-4fb3-8a1f-0f6dcb835c98" />
 ##### misc
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.find_movies_react)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.find_movies_react)
+
